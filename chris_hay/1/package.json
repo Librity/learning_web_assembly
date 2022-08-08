@@ -1,0 +1,15 @@
+{
+  "name": "chris_hay_1",
+  "version": "1.0.0",
+  "description": "Runn a Web Assembly function on JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "librity",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
