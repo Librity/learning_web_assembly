@@ -1,4 +1,4 @@
-// node index.js
+// wat2wasm -v math.wat && node index.js
 
 import fs from "fs";
 

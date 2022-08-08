@@ -1,4 +1,4 @@
-// node server.js
+// wat2wasm math.wat && cp math.wasm public && node server.js
 
 import express from "express";
 
